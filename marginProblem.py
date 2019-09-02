@@ -7,6 +7,6 @@ def lineCharacterCount(line):
     #Counts the characters that can fit on one line
 
 def movesLeftMargin(startNum):
-    #starts cursor at "" inch(es) on left Margin
+    #starts cursor at <number> inch(es) on left Margin
     formatter.push_margin(startNum)
     
