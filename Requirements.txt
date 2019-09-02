@@ -1,0 +1,9 @@
+Pseudo Code:
+1. read from file
+2. put text from file into list
+3. make indention for left margin
+3.a. use formatter.push_margin(<number>)
+4. use only 80 characters for one line
+5. make new line
+6. repeat 4 & 5 until end of list
+7. write to new file
