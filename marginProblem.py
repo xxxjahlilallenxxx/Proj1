@@ -1,7 +1,12 @@
 def marginProblem():
     #main function
     leftM = input("Please enter a number for left margin: ")
-    rightM = input("Please enter a number for right margin: ")
+    finput = open('testFile.txt', 'r')
+    movesLeftMargin(leftM)
+    finputList = finput.read()
+    
+    
+    
 
 def lineCharacterCount(line):
     #Counts the characters that can fit on one line
