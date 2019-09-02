@@ -8,7 +8,5 @@ def lineCharacterCount(line):
 
 def movesLeftMargin(startNum):
     #starts cursor at "" inch(es) on left Margin
-
-def movesRightMargin(EndNum):
-    #ends cursor at "" inch(es) on Right Margin
+    formatter.push_margin(startNum)
     
