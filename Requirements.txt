@@ -7,3 +7,6 @@ Pseudo Code:
 5. make new line
 6. repeat 4 & 5 until end of list
 7. write to new file
+
+Requirements:
+1. 

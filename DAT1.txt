@@ -1,0 +1,3 @@
+All clouds must be connected to a network. This inevitable requirement forms an inherent dependency on internetworking.
+
+Internetworks, or the Internet, allow for the remote provisioning of IT resources and are directly supportive of ubiquitous network access. Cloud consumers have the option of accessing the cloud using only private and dedicated network links in LANs, although most clouds are Internet-enabled. The potential of cloud platforms therefore generally grows in parallel with advancements in Internet connectivity and service quality.
