@@ -1,4 +1,6 @@
 Pseudo Code:
+Old Pseudo Code
+==============================================
 1. read from file
 2. put text from file into list
 3. make indention for left margin
@@ -7,6 +9,21 @@ Pseudo Code:
 5. make new line
 6. repeat 4 & 5 until end of list
 7. write to new file
+==============================================
+
+New Pseudo Code
+==============================================
+1. Ask for left margin indentation number
+2. Add left margin indentation to 80 to get right margin
+#80 is the number of characters in one line
+#Yes I hard coded the number of characters in a line
+3. Run a for loop to indent first line
+4. Run a for loop to start the conversion from the un-formatted text file to the 
+formatted text file
+4.a. if the index is smaller then the line character count, which is 80
+  b. else make index 0 and start new line and make new indentation
+==============================================
+
 
 Requirements:
-1. 
+1. DO NOT CHANGE ANY CODE
